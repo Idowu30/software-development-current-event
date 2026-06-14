@@ -15,7 +15,7 @@
 |Name            |Student Number        |Role                        |
 |----------------|----------------------|----------------------------|
 |Seerat Kaur     |   *123565251*        |*Slide Design + video intro*|
-|Japneet Kaur    |*(add student number)*|*(add role)*                |
+|Japneet Kaur    |   *101564268*        |*research + editing*        |
 |Idowu Adesoye   |*(add student number)*|*(add role)*                |
 |Kyaw Khine Khant|*(add student number)*|*(add role)*                |
 
