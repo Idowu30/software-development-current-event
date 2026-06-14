@@ -17,7 +17,7 @@
 |Seerat Kaur     |   *123565251*        |*Slide Design + video intro*|
 |Japneet Kaur    |   *101564268*        |*research + editing*        |
 |Idowu Adesoye   |*108604265*|*Researcher + presenter*                |
-|Kyaw Khine Khant|*103397261*|*Researcher + Presenter *                |
+|Kyaw Khine Khant|*103397261*|*Researcher + Presenter*                |
 
 -----
 
